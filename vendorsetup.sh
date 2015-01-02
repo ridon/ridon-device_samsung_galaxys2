@@ -1,0 +1,2 @@
+add_lunch_combo ridon_galaxys2-userdebug
+add_lunch_combo ridon_galaxys2-eng
